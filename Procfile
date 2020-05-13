@@ -1,1 +1,1 @@
-web: python blockchain.py
+web: python3 blockchain.py runserver 0.0.0.0:5066
