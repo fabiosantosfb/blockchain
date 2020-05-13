@@ -1,1 +1,1 @@
-web: python3 blockchain.py
+web: gunicorn app:app
