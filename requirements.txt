@@ -22,7 +22,7 @@ idna==2.6
 importlib-metadata==1.6.0
 importlib-resources==1.4.0
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 language-selector==0.1
 louis==2.6.4
 lxml==3.5.0
